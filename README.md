@@ -4,8 +4,8 @@
 
 ## Education
 - Honours Bachelors of Science | University of Toronto St. George (_June 2026_)
--   Physics Specialist
--   Math + CS Minor
+  - Physics Specialist
+  - Math + CS Minor
 
 ### Relevant Coursework:
 
