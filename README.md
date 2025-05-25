@@ -3,7 +3,7 @@
 **Technical Skills**: Python, C/C++, Java, UNIX Shell, Git, Excel
 
 ## Education
-- Honours Bachelors of Science | University of Toronto St. George (_June 2026_)
+- Honours Bachelors of Science | *University of Toronto* (_June 2026_)
   - Physics Specialist
   - Math + CS Minor
 
