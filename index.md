@@ -3,38 +3,58 @@ layout: home
 title: "Computational Physicist and SWE Portfolio"
 ---
 
+# Welcome
+
+I am a fourth-year **Physics Specialist** with a Minor in **Computer Science** and **Mathematics** at the University of Toronto.  
+I have a passion for solving challenging problems in **physics**, **engineering**, and **software**.
+
+I’m particularly interested in:
+- Software Engineering  
+- Data Science  
+- Quantum Computing
+
 ---
 
-I am a fourth year Physics Specialist with a Minor in CS and Math at the University of Toronto. I have a passion for solving challenging in problems in physics, engineering, and software. I am interested in Software Engineering, Data Science, and Quantum Computing.
+## 🛠 Technical Skills
 
-**Technical Skills**: Python, C/C++, Java, UNIX Shell, Git, Excel
+**Languages & Tools**:  
+`Python`, `C/C++`, `Java`, `UNIX Shell`, `Git`, `Excel`
 
-
-## Education
 ---
-Honours Bachelors of Science, *University of Toronto* (_June 2026_)
 
+## 🎓 Education
 
-**Awards and Accomplishments:**
+**Honours Bachelor of Science**  
+*University of Toronto* — *Expected June 2026*
 
-**Relevant Coursework**
-
-- Software:
-- Data Analysis:
-- Fundamentals:
-
-
-
-## Work and Research Experience
 ---
-Under Construction
 
+## 🏆 Awards and Accomplishments
 
-## Projects
+_Coming soon..._
+
 ---
-Under Construction
 
+## 📚 Relevant Coursework
 
-## Independent Learning and Notes
+- **Software Design**: _(List key courses here)_
+- **Data Analysis & Stats**: _(List courses)_
+- **Mathematical Foundations**: _(Add key math/logic courses)_
+
 ---
-Under Construction
+
+## 💼 Work & Research Experience
+
+_This section is under construction._
+
+---
+
+## 🧪 Projects
+
+_This section is under construction._
+
+---
+
+## 📖 Independent Learning & Notes
+
+_This section is under construction._
