@@ -3,5 +3,5 @@ description: Professional SWE and Tech Portfolio
 theme: minima
 
 header_pages:
-  - README.md
+  - index.md
   - about.md
