@@ -1,8 +1,3 @@
----
-layout: home
-title: "Computational Physicist and SWE Portfolio"
----
-
 # Introduction
 
 I am a fourth-year **Physics Specialist** with a Minor in **Computer Science** and **Mathematics** at the University of Toronto.  
