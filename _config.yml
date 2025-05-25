@@ -1,2 +1,7 @@
 title: Maforikan Amousssou
+description: Professional SWE and Tech Portfolio
 theme: minima
+
+header_pages:
+  - README.md
+  - about.md
