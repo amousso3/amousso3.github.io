@@ -1,10 +1,16 @@
 # Computational Physicist and Software Engineer
 
-### Education
-Physics Specialist, Math + Computer Science Minor, HBSc
+**Technical Skills**: Python, C/C++, Java, UNIX Shell, Git, Excel
 
-### Work and Research Experience
+## Education
+- Honours Bachelors of Science | University of Toronto St. George (_June 2026_)
+-   Physics Specialist
+-   Math + CS Minor
 
-### Projects
+### Relevant Coursework:
 
-### Independent Learning and Notes
+## Work and Research Experience
+
+## Projects
+
+## Independent Learning and Notes
